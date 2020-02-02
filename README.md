@@ -2,6 +2,8 @@
 
 Summary:
 
+The objective of this project is to develop the fraud detection algorithm.
+
 The given case is divided in three parts:
 
 - Data Exploration
